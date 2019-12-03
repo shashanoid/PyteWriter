@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "cheltenham";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f7f7f7;
+  overflow-x: hidden;
+}
+
+
+#app-wrapper {
+  width: 100vw;
+  height: 100vh;
+}
